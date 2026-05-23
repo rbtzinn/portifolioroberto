@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
-import { ExternalLink, AlertCircle, X } from 'lucide-react';
+import { ExternalLink, X } from 'lucide-react';
 
 interface LiveProjectButtonProps {
   lang?: 'pt' | 'en';
